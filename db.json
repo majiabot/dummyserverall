@@ -96,7 +96,7 @@
             		 "Author": "Cherren Ku",
 		         "Body": "Half of the pixles on my monitor will not light up",
 			 "category": "Hardware",
-		         "created": "2019-05-3",
+		         "created": "2019-05-03",
 		         "closed": "true"
 		       },
 		   	{
@@ -122,7 +122,16 @@
 		         "Title": "Virus",
             		 "Author": "Cherren Ku",
 		         "Body": "Due to the sheer amount of malicious advertisments on my workstation, I think I have virus",
-			 "category": "other",
+			 "category": "Other",
+		         "created": "2019-05-10",
+		         "closed": "false"
+		       }
+		   	{
+		         "ID": 80,
+		         "Title": "Computer Will not turn on",
+            		 "Author": "Cassie Chard-Bachen",
+		         "Body": "My computer will not turn on at all, I have ensured all cables are plugged in and my office has power",
+			 "category": "Hardware",
 		         "created": "2019-05-10",
 		         "closed": "false"
 		       }
