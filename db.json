@@ -80,6 +80,52 @@
 			 "category": "Other",
 		         "created": "2019-03-19",
 		         "closed": "false"
-		       }
+		       },
+		   	{
+		         "ID": 53,
+		         "Title": "Faulty HDMI Cable",
+            		 "Author": "Scott Blair",
+		         "Body": "The HDMI cable I use to connect my laptop to a desktop monitor has exposed innards.  This is a safety risk",
+			 "category": "Hardware",
+		         "created": "2019-03-14",
+		         "closed": "true"
+		       },
+		   	{
+		         "ID": 58,
+		         "Title": "Dead Pixles",
+            		 "Author": "Cherren Ku",
+		         "Body": "Half of the pixles on my monitor will not light up",
+			 "category": "Hardware",
+		         "created": "2019-05-3",
+		         "closed": "true"
+		       },
+		   	{
+		         "ID": 67,
+		         "Title": "Constant Popups",
+            		 "Author": "Cassie Chard-Bachen",
+		         "Body": "I believe my computer is infected with a virus... Even my desktop is covered in popups",
+			 "category": "Other",
+		         "created": "2019-05-10",
+		         "closed": "false"
+		       },
+		   	{
+		         "ID": 76,
+		         "Title": "Pop-ups stopping my work",
+            		 "Author": "Scott Blair",
+		         "Body": "The amount of popups showing on my screen is preventing me from getting any work done",
+			 "category": "Other",
+		         "created": "2019-05-10",
+		         "closed": "false"
+		       },
+		   	{
+		         "ID": 80,
+		         "Title": "Virus",
+            		 "Author": "Cherren Ku",
+		         "Body": "Due to the sheer amount of malicious advertisments on my workstation, I think I have virus",
+			 "category": "other",
+		         "created": "2019-05-10",
+		         "closed": "false"
+		       },
+		   	
 		     ] 
 	}
