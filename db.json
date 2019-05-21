@@ -3,31 +3,34 @@
 		       {
 		         "ID": 8,
 		         "Title": "Software Request",
-             "Author": "Tyson Shields",
+             		 "Author": "Tyson Shields",
 		         "Body": "I would like Word to be installed on my computer so that I can write documents",
+			 "category": "Other"
 		         "created": "2019-05-11",
-		         "closed": true
+		         "closed": "true"
 		       },
 		       {
 		         "ID": 9,
 		         "Title": "Fire",
-             "Author": "Tyson Shields",
+             		 "Author": "Tyson Shields",
 		         "Body": "Dear Sir/Madam, FIRE! FIRE! HELP ME! 123 Calladen Road.  I look forward to hearing from you, all the best.",
+			 "category": "Hardware
 		         "created": "2019-05-01",
-		         "closed": true
+		         "closed": "true"
 		       },
 		       {
 		         "ID": 10,
 		         "Title": "I am concerned over the new millennium",
-             "Author": "Tyson Shields",
+             		 "Author": "Tyson Shields",
 		         "Body": "Will my work be effected by the Y2K bug? Please let me know post haste",
+			 "category": "Other"
 		         "created": "1999-12-31",
-		         "closed": true
+		         "closed": "true"
 		       },
-           {
+           		{
 		         "ID": 11,
 		         "Title": "Facebook is blocked",
-             "Author": "Tyson Shields",
+             		"Author": "Tyson Shields",
 		         "Body": "While I realize that facebook is often a distraction, I need to interface with my clients",
 			       "category": "Internet",
 		         "created": "2019-05-11",
@@ -36,7 +39,7 @@
 		       {
 		         "ID": 1,
 		         "Title": "I cannot log in to my github account",
-             "Author": "Tyson Shields",
+             		"Author": "Tyson Shields",
 		         "Body": "I have forgotten the password to my company issued github account",
 			       "category": "Account",
 		         "created": "2019-05-10",
@@ -45,7 +48,7 @@
 		       {
 		         "ID": 2,
 		         "Title": "The printer isn't working",
-             "Author": "Tyson Shields",
+             		"Author": "Tyson Shields",
 		         "Body": "When i try and print, it doesn't work at all!!",
 			       "category": "Hardware",
 		         "created": "2018-12-24",
@@ -54,7 +57,7 @@
 		       {
 		         "ID": 3,
 		         "Title": "I have spilt coffee on my keyboard",
-             "Author": "Tyson Shields",
+            		 "Author": "Tyson Shields",
 		         "Body": "My hand slipped and now my keyboard is a sticky mess! I cannot even get a keystroke to register.",
 			       "category": "Hardware",
 		         "created": "2019-05-12",
@@ -63,7 +66,7 @@
 		       {
 		         "ID": 4,
 		         "Title": "New Software",
-             "Author": "Tyson Shields",
+            		 "Author": "Tyson Shields",
 		         "Body": "I have an idea for a great piece of software the company should purchase",
 			       "category": "Other",
 		         "created": "2019-05-01",
@@ -72,9 +75,9 @@
 		       {
 		         "ID": 5,
 		         "Title": "Blue screen of death",
-             "Author": "Tyson Shields",
+            		 "Author": "Tyson Shields",
 		         "Body": "MY workstation is plagued by fatal crashes every hour.  This causes me to lose alot of unsaved data",
-			       "category": "Other",
+			 "category": "Other",
 		         "created": "2019-03-19",
 		         "closed": "false"
 		       }
